@@ -1,0 +1,17 @@
+{
+    "name": "genemoji",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node dist/app.js",
+        "build": "tsc -p tsconfig.json --pretty",
+        "dev": "tsc -p tsconfig.json --pretty --watch",
+        "format": "prettier --check --ignore-path .gitignore .",
+        "format:fix": "prettier --write --ignore-path .gitignore ."
+    },
+    "type": "module",
+    "devDependencies": {
+        "@types/node": "^18.7.1",
+        "typescript": "^4.7.4"
+    }
+}
