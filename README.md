@@ -8,7 +8,7 @@ genemoji is a small CLI tool to generate Revolt's emoji asset folder. It transfo
 
 -   [Fluent](https://github.com/microsoft/fluentui-emoji)
 -   [Twemoji](https://twemoji.twitter.com)
--   [Mutant](https://mutant.revolt.chat)
+-   [Mutant Remix](https://mutant.revolt.chat)
 -   [Noto Color Emoji](https://fonts.google.com/noto/specimen/Noto+Emoji)
 
 ## Submodule Hint
