@@ -3,7 +3,7 @@
 	url = https://github.com/microsoft/fluentui-emoji
 [submodule "packs/twemoji"]
 	path = packs/twemoji
-	url = https://github.com/twitter/twemoji
+	url = https://github.com/jdecked/twemoji
 [submodule "packs/noto"]
 	path = packs/noto
 	url = https://github.com/googlefonts/noto-emoji
